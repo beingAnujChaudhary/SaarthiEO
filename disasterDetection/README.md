@@ -393,15 +393,6 @@ Transitioning into AI/ML engineering. SaarthiEO demonstrates a complete end-to-e
 
 ---
 
-> **📄 Resume Bullet Point**
->
-> **SaarthiEO — Disaster Detection from Satellite & Drone Imagery** *(PyTorch · Gradio · Hugging Face)*
-> - Fine-tuned EfficientNet-B3 on a 4-class aerial disaster dataset achieving **97.38% test accuracy** (Fire, Flood, Collapsed Building, Traffic Incident).
-> - Built an end-to-end Grad-CAM explainability pipeline hooking the last convolutional block to produce interpretable attention heatmaps.
-> - Deployed a production-grade 3-tab Gradio web app (single predict, Grad-CAM, batch CSV export) to Hugging Face Spaces with Git LFS model storage.
-
----
-
 <div align="center">
 Made with ❤️ &nbsp;·&nbsp; SaarthiEO &nbsp;·&nbsp; EfficientNet-B3 + PyTorch + Gradio
 </div>
