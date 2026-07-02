@@ -363,18 +363,6 @@ SaarthiEO/
 └── README.md
 ```
 
----
-
-## 🔭 Future Work
-
-- [ ] **Multi-label classification** — one image may show fire + flood simultaneously
-- [ ] **Severity scoring** — mild / moderate / severe damage scale per class
-- [ ] **Geolocation tagging** — parse GPS EXIF metadata from drone images
-- [ ] **Video inference** — frame-by-frame analysis of drone footage streams
-- [ ] **Alert webhook** — real-time notification to first-responder systems
-- [ ] **Edge deployment** — quantised INT8 ONNX model for on-device drone inference
-- [ ] **Larger dataset** — AIDER, EMSR, and DisasterGAN synthetic augmentation
-- [ ] **Transformer backbone** — experiment with ViT-B/16 and Swin-T
 
 ---
 
